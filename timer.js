@@ -1,4 +1,4 @@
-const dateLaunch = new Date('19 jul 2022, 11:00:00'); //Write the date of launch here
+const dateLaunch = new Date('19 aug 2023, 11:00:00'); //Write the date of launch here
 const currentDate = new Date();
 const currentDateMill = currentDate.getTime();
 const dateLaunchMill = dateLaunch.getTime();
